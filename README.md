@@ -20,11 +20,17 @@ Implements some army activities which affect databse of Army.
 ## Soldier_functions
 
 [x] 7.  displayDetails()
+
 [x] 8.  addHealthCheckup()
+
 [x] 9. allDependency()
+
 [x] 10. retire()
+
 [x] 11. promote() 
+
 [x] 12. displayPayCheck()
+
 [x] 13. displayNumberOfDaysServed()
 
 ## Division Commander
