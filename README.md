@@ -4,9 +4,13 @@ Implements some army activities which affect databse of Army.
 ## Outsider_functions
 
 [x] 1.  viewAllRanks()
+
 [x] 2.  viewAllCommands()
+
 [x] 3.  selfRecruit()
+
 [x] 4.  viewAllMartyred()
+
 [x] 5.  viewStats()
 
 ## Soldier_login
